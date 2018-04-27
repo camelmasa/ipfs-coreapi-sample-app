@@ -1,7 +1,10 @@
 # IPFS CoreAPI Sample App
 
-It's sample apps using IPFS CoreAPI.
+It's sample apps for IPFS CoreAPI.
 If you want to implement embedded IPFS apps, It can help.
+
+It apps has just HTTP API interface. The API calls `echo "some string" | ipfs add` using IPFS CoreAPI.
+
 
 ## ToC
 
