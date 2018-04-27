@@ -1,0 +1,17 @@
+{
+  "author": "camelmasa",
+  "bugs": {},
+  "gxDependencies": [
+    {
+      "hash": "QmNUCLv5fmUBuAcwbkt58NQvMcJgd5FPCYV2yNCXq4Wnd6",
+      "name": "go-ipfs",
+      "version": "0.4.15-rc1"
+    }
+  ],
+  "gxVersion": "0.12.1",
+  "language": "ipfs-coreapi-sample-app",
+  "license": "MIT",
+  "name": "ipfs-coreapi-sample-app",
+  "releaseCmd": "git commit -a -m \"gx publish $VERSION\"",
+  "version": "0.0.0"
+}
